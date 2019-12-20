@@ -1,0 +1,10 @@
+C:\Users\RobertoPires\source\repos\ResaloliPT.AddinManager.Swagger\ResaloliPT.AddinManager.Swagger\bin\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.deps.json
+C:\Users\RobertoPires\source\repos\ResaloliPT.AddinManager.Swagger\ResaloliPT.AddinManager.Swagger\bin\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.dll
+C:\Users\RobertoPires\source\repos\ResaloliPT.AddinManager.Swagger\ResaloliPT.AddinManager.Swagger\obj\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.csprojAssemblyReference.cache
+C:\Users\RobertoPires\source\repos\ResaloliPT.AddinManager.Swagger\ResaloliPT.AddinManager.Swagger\obj\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.AssemblyInfoInputs.cache
+C:\Users\RobertoPires\source\repos\ResaloliPT.AddinManager.Swagger\ResaloliPT.AddinManager.Swagger\obj\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.AssemblyInfo.cs
+C:\Users\RobertoPires\Desktop\Coding\C#\ResaloliPT.AddinManager.Swagger\src\ResaloliPT.AddinManager.Swagger\bin\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.deps.json
+C:\Users\RobertoPires\Desktop\Coding\C#\ResaloliPT.AddinManager.Swagger\src\ResaloliPT.AddinManager.Swagger\bin\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.dll
+C:\Users\RobertoPires\Desktop\Coding\C#\ResaloliPT.AddinManager.Swagger\src\ResaloliPT.AddinManager.Swagger\obj\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.csprojAssemblyReference.cache
+C:\Users\RobertoPires\Desktop\Coding\C#\ResaloliPT.AddinManager.Swagger\src\ResaloliPT.AddinManager.Swagger\obj\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.AssemblyInfoInputs.cache
+C:\Users\RobertoPires\Desktop\Coding\C#\ResaloliPT.AddinManager.Swagger\src\ResaloliPT.AddinManager.Swagger\obj\Debug\netstandard2.1\ResaloliPT.AddinManager.Swagger.AssemblyInfo.cs

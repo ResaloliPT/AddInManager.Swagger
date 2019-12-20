@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>ResaloliPT</Authors>
+    <Description>Implementation of AddinManger to Enable Swagger on an .Net Core 3.0 Application</Description>
+    <Version>0.1.0</Version>
+    <Copyright>Copyright (c) 2019 ResaloliPT</Copyright>
+    <Product>AddinManager.Swagger</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="3.1.0" />
+    <PackageReference Include="ResaloliPT.AddinManager.Abstractions" Version="0.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc5" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="5.0.0-rc8" />
+  </ItemGroup>
+
+</Project>
